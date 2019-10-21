@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1370622712 source:d:\elements\prog\fichiers source mp1 facebook (danneville-regnard)\facebook\main.cpp
+	"ssProg.h"
+
+1363183350 d:\elements\prog\fichiers source mp1 facebook (danneville-regnard)\facebook\ssprog.h
+	"Facebook.h"
+
+1363191822 d:\elements\prog\fichiers source mp1 facebook (danneville-regnard)\facebook\facebook.h
+	"Personne.h"
+	"ssProg.h"
+
+1363186314 d:\elements\prog\fichiers source mp1 facebook (danneville-regnard)\facebook\personne.h
+	<iostream>
+	<cstdlib>
+
+1363186278 source:d:\elements\prog\fichiers source mp1 facebook (danneville-regnard)\facebook\personne.cpp
+	"Personne.h"
+	"Facebook.h"
+
+1362264686 source:d:\elements\prog\fichiers source mp1 facebook (danneville-regnard)\facebook\ssprog.cpp
+	"ssProg.h"
+
+1370622857 source:d:\elements\prog\fichiers source mp1 facebook (danneville-regnard)\facebook\facebook.cpp
+	"Facebook.h"
+
